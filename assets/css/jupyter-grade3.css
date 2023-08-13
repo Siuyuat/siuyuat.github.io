@@ -2875,45 +2875,16 @@ div.collapsible_headings_toggle .fa-caret-right:before {
     padding-right: 0px !important;
 }
 
-#toc-wrapper {
-    z-index: 90;
-    position: fixed !important;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    padding: 10px;
-    border-style: solid;
-    border-width: thin;
-    border-right-width: medium !important;
-    background-color: #ffffff !important;
-}
-
-#toc-wrapper.ui-draggable.ui-resizable.sidebar-wrapper {
-    border-color: rgba(180, 180, 180, .14) !important;
-}
-
-#toc a,
-#navigate_menu a,
-.toc {
+#navigate_menu a {
     color: #303030 !important;
     font-size: 11pt !important;
 }
 
-#toc li>span:hover {
-    background-color: #d4d4d4 !important;
-}
-
-#toc a:hover,
-#navigate_menu a:hover,
-.toc {
+#navigate_menu a:hover {
     color: #1c1c1c !important;
     font-size: 11pt !important;
 }
 
-#toc-wrapper .toc-item-num {
-    color: #ff7823 !important;
-    font-size: 11pt !important;
-}
 
 input.raw_input {
     font-family: monospace, monospace;

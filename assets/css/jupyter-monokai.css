@@ -2875,23 +2875,6 @@ div.collapsible_headings_toggle .fa-caret-right:before {
     padding-right: 0px !important;
 }
 
-#toc-wrapper {
-    z-index: 90;
-    position: fixed !important;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    padding: 10px;
-    border-style: solid;
-    border-width: thin;
-    border-right-width: medium !important;
-    background-color: #1e1e1e !important;
-}
-
-#toc-wrapper.ui-draggable.ui-resizable.sidebar-wrapper {
-    border-color: rgba(93, 92, 82, .25) !important;
-}
-
 #toc a,
 #navigate_menu a,
 .toc {
