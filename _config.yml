@@ -228,7 +228,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
