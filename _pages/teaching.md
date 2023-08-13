@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /teaching/ #this is the link in the actual website
+title: Teaching #the headding in the actual web page apperearence
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
