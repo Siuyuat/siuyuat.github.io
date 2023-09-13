@@ -16,10 +16,10 @@ profile:
 news: false # true  # includes a list of news items
 latest_posts: false # true  # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
-social: false # true  # includes social icons at the bottom of the page
+social: true # true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate in Economics at Yale University. As a development economists, my research focuses on international labour migration that is both temporary and permanent, and its intersection with child development and climate change. 
+I am a Ph.D. candidate in Economics at Yale University. As a development economist, my research focuses on international labour migration that is both temporary and permanent, and its intersection with child development and climate change. 
 
 Email: [siuyuat.wong@yale.edu](mailto:siuyuat.wong@yale.edu)
